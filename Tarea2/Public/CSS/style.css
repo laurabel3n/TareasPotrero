@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: crimson; font-style: oblique;
+}
+.titulo {
+    color: cornflowerblue;
+}
+.subtitulo {
+    color:blueviolet
+}
